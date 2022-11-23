@@ -6,7 +6,11 @@ Soy Desarrolador Full Stack con conocimientos en:
 |--------|------|------|-------|-----|-----|------|
 |javascript| HTML | CSS | React | Redux | NodeJs | Sequelize |
 
-Actualmente me encuentro cursando el bootcamp de programación de SoyHenry.
+Actualmente me encuentro finalizando el bootcamp de programación de SoyHenry, en donde pude poner en practica mis conocimientos realizando dos proyectos:
+ - PI Videogames -
+ mi proyecto individual en donde tuve que trabajar con la API [Rawg.io](https://rawg.io) para mostrar un listado de juegos al que se le pueden aplicar filtros, páginado, ordenamiento y busqueda.
+ - PF Guitar Code - Proyecto final (en el cual trabajé en equipo con otros compañeros) que se trata de un E-Commerce de guitarras.
+  
 
 **📫 Contacto:** 
 - email: lucianosilvaguinco@outlook.com
